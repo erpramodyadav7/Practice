@@ -1,3 +1,6 @@
+# the code modify by Pramod
+# this code is for calculating bonus of all employees
+
 exp= int(input("Enter Work experience: "))
 
 sal= int(input("Enter your salary in thousands: "))
