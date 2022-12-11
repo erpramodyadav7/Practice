@@ -1,3 +1,5 @@
+# code modified by sachin
+# this code required some modifications in future
 exp= int(input("Enter Work experience: "))
 
 sal= int(input("Enter your salary in thousands: "))
